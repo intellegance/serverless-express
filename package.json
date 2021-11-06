@@ -8,7 +8,6 @@
   "dependencies": {
   },
   "devDependencies": {
-     
     "@nrwl/tao": "13.1.3",
     "@nrwl/cli": "13.1.3",
     "@nrwl/workspace": "13.1.3",
